@@ -1,0 +1,92 @@
+<resources>
+    <string name="item_name_face_shape">脸型</string>
+    <string name="item_name_bp_skin_whitening">美白</string>
+    <string name="item_name_bp_skin_buffing">磨皮</string>
+    <string name="item_name_bp_skin_sharpen">锐化</string>
+    <string name="item_name_face_shape_big_eye">大眼</string>
+    <string name="item_name_face_shape_philtrum">人中</string>
+    <string name="item_name_face_shape_thin_mandible">下颌骨</string>
+    <string name="item_name_face_shape_thin_nose">瘦鼻</string>
+    <string name="item_name_face_shape_mouth_width">唇宽</string>
+    <string name="item_name_face_shape_mouth_high">唇高</string>
+    <string name="item_name_face_shape_cut_cheek">瘦颧骨</string>
+    <string name="item_name_face_shape_nosewing">缩鼻翼</string>
+    <string name="item_name_face_shape_cut_face">削脸</string>
+    <string name="item_name_face_shape_thin_jaw">下巴</string>
+    <string name="item_name_face_shape_eye_angle2">眼睑下至</string>
+    <string name="item_name_face_shape_lower_jaw">下巴拉长</string>
+    <string name="item_name_face_shape_canthus">眼距</string>
+    <string name="item_name_face_shape_nasal_height">鼻长</string>
+    <string name="item_name_face_shape_thin_face">瘦脸</string>
+    <string name="item_name_face_shape_long_face">脸长</string>
+
+    <string name="item_name_makeup_eyeball">美瞳</string>
+    <string name="item_name_makeup_highlight">高光</string>
+    <string name="item_name_makeup_mouth">口红</string>
+    <string name="item_name_makeup_whole">整妆</string>
+    <string name="item_name_makeup_eye_brow">眼妆</string>
+    <string name="item_name_makeup_blush">腮红</string>
+    <string name="sub_item_name_makeup_blush_powder_pink">嫩粉</string>
+    <string name="sub_item_name_makeup_blush_pink">桃红</string>
+    <string name="sub_item_name_makeup_blush_cherry">樱桃</string>
+    <string name="sub_item_name_makeup_blush_orange">蜜橘</string>
+    <string name="sub_item_name_makeup_blush_violet">黛紫</string>
+    <string name="sub_item_name_makeup_whole_basic">基础</string>
+    <string name="sub_item_name_makeup_whole_vigour">活力</string>
+    <string name="sub_item_name_makeup_whole_young">元气</string>
+    <string name="sub_item_name_makeup_whole_apricot">杏粉</string>
+    <string name="sub_item_name_makeup_whole_peach">蜜桃</string>
+    <string name="sub_item_name_makeup_whole_orange">奶橘</string>
+    <string name="sub_item_name_makeup_whole_plum">梅子</string>
+    <string name="sub_item_name_makeup_whole_elegant">优雅</string>
+    <string name="sub_item_name_makeup_whole_charm">魅惑</string>
+
+<!--    滤镜-->
+    <string name="item_name_lut_lookup1">美白</string>
+    <string name="item_name_lut_lookup2">初恋</string>
+    <string name="item_name_lut_lookup3">清爽</string>
+    <string name="item_name_lut_lookup4">非凡</string>
+    <string name="item_name_lut_lookup5">动人</string>
+    <string name="item_name_lut_lookup6">萌系</string>
+    <string name="item_name_lut_lookup7">日系</string>
+    <string name="item_name_lut_lookup8">深秋</string>
+    <string name="item_name_lut_lookup9">曲奇</string>
+    <string name="item_name_lut_lookup11">年华</string>
+    <string name="item_name_lut_lookup12">单纯</string>
+    <string name="item_name_lut_lookup16">知秋</string>
+    <string name="item_name_lut_lookup18">蔷薇</string>
+    <string name="item_name_lut_lookup21">安静</string>
+    <string name="item_name_lut_lookup25">严肃</string>
+    <string name="item_name_lut_lookup27">日光</string>
+    <string name="item_name_lut_young">元气</string>
+    <string name="item_name_lut_remember">怀旧</string>
+    <string name="item_name_lut_romantic">浪漫</string>
+    <string name="item_name_lut_fresh">清新</string>
+    <string name="item_name_lut_pure">纯真</string>
+    <string name="item_name_lut_blues">蓝调</string>
+    <string name="item_name_lut_original">超脱</string>
+
+
+    <string name="item_name_sticker_baiyang">白羊</string>
+    <string name="item_name_sticker_bazihu">八字胡</string>
+    <string name="item_name_sticker_buou">布偶</string>
+    <string name="item_name_sticker_emoji">小黄脸</string>
+
+    <string name="item_name_sticker_houzi">猴子</string>
+    <string name="item_name_sticker_huxu">胡须</string>
+    <string name="item_name_sticker_maoerduo">猫耳朵</string>
+    <string name="item_name_sticker_sheshou">射手座</string>
+    <string name="item_name_sticker_shouhuihuzi">手绘胡子</string>
+    <string name="item_name_sticker_tuzi">兔子</string>
+
+    <string name="ITEM_NAME_NONE">无</string>
+
+    <string name="tab_name_beauty">美颜</string>
+    <string name="tab_name_makeup">美妆</string>
+    <string name="tab_name_lut">滤镜</string>
+    <string name="tab_name_material">贴纸</string>
+    <string name="sub_tab_name_makeup_whole">整妆</string>
+    <string name="sub_tab_name_makeup_blush">腮红</string>
+
+
+</resources>

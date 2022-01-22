@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="item_name_face_shape">Face shape</string>
+    <string name="item_name_bp_skin_whitening">Whiten</string>
+    <string name="item_name_bp_skin_buffing">Polish</string>
+    <string name="item_name_bp_skin_sharpen">Sharpen</string>
+    <string name="item_name_face_shape_big_eye">Enlarge Eyes</string>
+    <string name="item_name_face_shape_philtrum">Philtrum</string>
+    <string name="item_name_face_shape_thin_mandible">Jaw</string>
+    <string name="item_name_face_shape_thin_nose">Slim Nose</string>
+    <string name="item_name_face_shape_mouth_width">Mouth Shape</string>
+    <string name="item_name_face_shape_mouth_high">Lip Thickness</string>
+    <string name="item_name_face_shape_cut_cheek">Cheekbones</string>
+    <string name="item_name_face_shape_nosewing">Nose Wings</string>
+    <string name="item_name_face_shape_cut_face">Narrow Face</string>
+    <string name="item_name_face_shape_thin_jaw">Chin1</string>
+    <string name="item_name_face_shape_eye_angle2">Canthus</string>
+    <string name="item_name_face_shape_lower_jaw">Chin2</string>
+    <string name="item_name_face_shape_canthus">Eye Distance</string>
+    <string name="item_name_face_shape_nasal_height">Nose Length</string>
+    <string name="item_name_face_shape_thin_face">Slim Face</string>
+    <string name="item_name_face_shape_long_face">Face Length</string>
+
+    <string name="item_name_makeup_eyeball">Eye Contact</string>
+    <string name="item_name_makeup_highlight">Highlight</string>
+    <string name="item_name_makeup_mouth">Lipstick</string>
+    <string name="item_name_makeup_whole">Whole</string>
+    <string name="item_name_makeup_eye_brow">Eye Makeup</string>
+    <string name="item_name_makeup_blush">Blusher</string>
+
+    <string name="sub_item_name_makeup_blush_powder_pink">Soft Pink</string>
+    <string name="sub_item_name_makeup_blush_pink">Peach Pink</string>
+    <string name="sub_item_name_makeup_blush_cherry">Cherry</string>
+    <string name="sub_item_name_makeup_blush_orange">Tangerine</string>
+    <string name="sub_item_name_makeup_blush_violet">Deep Purple</string>
+    <string name="sub_item_name_makeup_whole_basic">Basic</string>
+    <string name="sub_item_name_makeup_whole_vigour">Vitality</string>
+    <string name="sub_item_name_makeup_whole_young">Lively</string>
+    <string name="sub_item_name_makeup_whole_apricot">Apricot Pink</string>
+    <string name="sub_item_name_makeup_whole_peach">Peach</string>
+    <string name="sub_item_name_makeup_whole_orange">Orange</string>
+    <string name="sub_item_name_makeup_whole_plum">Plum</string>
+    <string name="sub_item_name_makeup_whole_elegant">Elegant</string>
+    <string name="sub_item_name_makeup_whole_charm">Charm</string>
+
+
+    <!--    滤镜-->
+    <string name="item_name_lut_lookup1">White</string>
+    <string name="item_name_lut_lookup2">First love</string>
+    <string name="item_name_lut_lookup3">Refreshing</string>
+    <string name="item_name_lut_lookup4">非凡</string>
+    <string name="item_name_lut_lookup5">动人</string>
+    <string name="item_name_lut_lookup6">萌系</string>
+    <string name="item_name_lut_lookup7">日系</string>
+    <string name="item_name_lut_lookup8">深秋</string>
+    <string name="item_name_lut_lookup9">曲奇</string>
+    <string name="item_name_lut_lookup11">年华</string>
+    <string name="item_name_lut_lookup12">单纯</string>
+    <string name="item_name_lut_lookup16">知秋</string>
+    <string name="item_name_lut_lookup18">蔷薇</string>
+    <string name="item_name_lut_lookup21">安静</string>
+    <string name="item_name_lut_lookup25">严肃</string>
+    <string name="item_name_lut_lookup27">日光</string>
+    <string name="item_name_lut_young">Lively</string>
+    <string name="item_name_lut_remember">Nostalgic</string>
+    <string name="item_name_lut_romantic">浪漫</string>
+    <string name="item_name_lut_fresh">Fresh</string>
+    <string name="item_name_lut_pure">Innocent</string>
+    <string name="item_name_lut_blues">Blues</string>
+    <string name="item_name_lut_original">Detached</string>
+
+
+
+    <string name="item_name_sticker_baiyang">Sheep</string>
+    <string name="item_name_sticker_bazihu">Mustache</string>
+    <string name="item_name_sticker_buou">Doll</string>
+    <string name="item_name_sticker_emoji">Yellow Face</string>
+
+    <string name="item_name_sticker_houzi">Monkey</string>
+    <string name="item_name_sticker_huxu">Beard</string>
+    <string name="item_name_sticker_maoerduo">Cat Ears</string>
+    <string name="item_name_sticker_sheshou">Sagittarius</string>
+    <string name="item_name_sticker_shouhuihuzi">Sketch Beard</string>
+    <string name="item_name_sticker_tuzi">Rabbit</string>
+    <string name="ITEM_NAME_NONE">无</string>
+
+    <string name="tab_name_beauty">Retouch</string>
+    <string name="tab_name_makeup">Makeup</string>
+    <string name="tab_name_lut">Filter</string>
+    <string name="tab_name_material">Sticker</string>
+    <string name="sub_tab_name_makeup_whole">WholeMakeup</string>
+    <string name="sub_tab_name_makeup_blush">Blusher</string>
+</resources>
